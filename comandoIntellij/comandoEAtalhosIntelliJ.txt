@@ -1,0 +1,19 @@
+Comandos e atalhos IntelliJ
+
+Para criar o sistem.out.println sout
+
+Para criar um contrutot ALT + INS e com Shift + Seta para baixo seleciona os atributos
+
+Para criar um comentario seleciona o codigo desejado para comentar e precione CTRL + SHIFT + /
+
+Para deletar uma linha completa se usa CTRL + Y
+
+Para refatora nome de class selecione a class e precione SHIFT + F6
+
+Para formatar seu código aperte CTRL + ALT + L
+
+Para duplicar uma linha CTRL + D
+
+Para mover a linha CTRL + SHIFT + Seta para cima ou para baixo
+
+Para armazernar um textop em uma variavel CTRL + ALT + B
