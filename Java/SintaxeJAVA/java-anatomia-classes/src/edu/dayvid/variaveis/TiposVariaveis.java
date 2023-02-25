@@ -21,6 +21,7 @@ public class TiposVariaveis {
       System.out.println(numeroCurto2);
       System.out.println(salarioMinimo);
       System.out.println(meuNome);
+      System.out.println(VALOR_DE__PI);
 
     }
 }
