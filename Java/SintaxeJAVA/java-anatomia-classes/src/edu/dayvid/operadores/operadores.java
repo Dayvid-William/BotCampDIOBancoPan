@@ -1,5 +1,7 @@
 package edu.dayvid.operadores;
 
+import java.security.CodeSigner;
+
 public class operadores {
   public static void main(String[] args) {
     String concatenacao = "?";
@@ -46,5 +48,19 @@ public class operadores {
     String resultador = a == b ? "Verdadeiro" : "Falso";
 
     System.out.println(resultador);
+
+    // Operadores Lógicos && / ||
+
+    boolean condicao1 = true;
+
+    boolean condicao2 = true;
+
+    if (condicao1 && condicao2) {
+      System.out.println("As duas condições são verdadeiras");
+    }
+    if(condicao1 || condicao2) {
+      System.out.println("Uma condição e verdadeira");
+    }
+    System.out.println("fim");
   }
 }
