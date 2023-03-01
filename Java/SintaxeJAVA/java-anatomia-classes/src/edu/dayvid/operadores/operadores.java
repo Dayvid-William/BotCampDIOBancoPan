@@ -1,7 +1,5 @@
 package edu.dayvid.operadores;
 
-import java.security.CodeSigner;
-
 public class operadores {
   public static void main(String[] args) {
     String concatenacao = "?";
