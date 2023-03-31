@@ -19,5 +19,13 @@ public class Nota {
       nota = scan.nextInt();
       if (nota >= 0 && nota <= 10) break ;
     }
+
+    /*
+     * Solução do curso 
+     * while(nota < 0 | nota > 10) {
+     *  System.out.println("Nota invalida! Digite novamente");
+     *  nota = scan.nextInt
+     * }
+     */
   }
 }
