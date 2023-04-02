@@ -34,5 +34,13 @@ public class Tabuada {
       multiplo++;
       count++;
     }while(count < 10);
+
+    /*
+     * Resolução d aprofessora
+     * 
+     * for (int i = 1; i <= 10; i++){
+     *  System.out.println(tabuada + " x " + i + " = " + (tabuada*i));
+     * }
+     */
   }
 }
